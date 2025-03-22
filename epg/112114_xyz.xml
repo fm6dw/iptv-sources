@@ -27684,6 +27684,9 @@
 	<programme channel="咪咕足球" start="20250322125000 +0800" stop="20250322141500 +0800">
 		<title lang="zh">我爱女篮-24/25WCBA季后赛16进8第3轮 山西竹叶青酒-武汉盛帆黄鹤</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250322141500 +0800" stop="20250322144500 +0800">
+		<title lang="zh">荣耀之路</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -38936,6 +38939,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20250322124900 +0800" stop="20250322141500 +0800">
 		<title lang="zh">地牢围攻3</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20250322141500 +0800" stop="20250322161400 +0800">
+		<title lang="zh">杀破狼2</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -63888,6 +63894,9 @@
 	<programme channel="纯享4K" start="20250322132200 +0800" stop="20250322140700 +0800">
 		<title lang="zh">传承b7智慧篇4K 第6集 动静之力</title>
 	</programme>
+	<programme channel="纯享4K" start="20250322140700 +0800" stop="20250322145200 +0800">
+		<title lang="zh">传承b7智慧篇4K 第7集 数据之恒</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -77949,6 +77958,9 @@
 	<programme channel="黑莓动画" start="20250322134300 +0800" stop="20250322140900 +0800">
 		<title lang="zh">02_超级飞侠第15季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250322140900 +0800" stop="20250322144400 +0800">
+		<title lang="zh">21_嗨道奇第2季中文版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -77975,6 +77987,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250322123000 +0800" stop="20250322140500 +0800">
 		<title lang="zh">蜡笔小新剧场版2014</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250322140500 +0800" stop="20250322155500 +0800">
+		<title lang="zh">碟中谍</title>
 	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
@@ -79365,6 +79380,9 @@
 	<programme channel="newtv热播精选" start="20250322132800 +0800" stop="20250322140800 +0800">
 		<title lang="zh">Chritsniroid轻型便携电动代步车-渠道（右）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250322140800 +0800" stop="20250322145300 +0800">
+		<title lang="zh">11_潜行者</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -79545,6 +79563,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250322132800 +0800" stop="20250322141400 +0800">
 		<title lang="zh">32_好事成双</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250322141400 +0800" stop="20250322145400 +0800">
+		<title lang="zh">Chritsniroid轻型便携电动代步车-渠道（右）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -79613,6 +79634,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250322134300 +0800" stop="20250322140500 +0800">
 		<title lang="zh">二战惊险行动b7解围科希马</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250322140500 +0800" stop="20250322142700 +0800">
+		<title lang="zh">二战惊险行动b7厄克特的突围</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -79757,6 +79781,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250322124900 +0800" stop="20250322141500 +0800">
 		<title lang="zh">地牢围攻3</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250322141500 +0800" stop="20250322161400 +0800">
+		<title lang="zh">杀破狼2</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
